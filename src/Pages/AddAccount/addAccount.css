@@ -50,6 +50,7 @@
 .sign-in {
     padding: 20px;
     margin-top: 30px;
+    margin-left: 30px;
 }
 
 label {
@@ -91,10 +92,11 @@ input[type="text"] {
     font-size: 12px;
     font-weight: 200;
     width: 80%;
+    text-align: center;
 }
 
 .submit-button:hover {
-    background-color: #4A7D4E; /* Darker green on hover */
+    background-color: #4A7D4E; 
 }
 
 .bank-images {
